@@ -1,0 +1,1 @@
+# CoinRust-coin-game
