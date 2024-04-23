@@ -23,6 +23,3 @@ CoinRust, tkinter kullanarak basit bir coin kazanma ve hediye alma uygulamasıd�
 - tkinter (Python'un standart kütüphanesi)
 - webbrowser (Python'un standart kütüphanesi)
 
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına bakın.
