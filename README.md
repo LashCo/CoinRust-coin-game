@@ -1,4 +1,3 @@
-# CoinRust-coin-game
 # CoinRust
 
 CoinRust, tkinter kullanarak basit bir coin kazanma ve hediye alma uygulamasıdır. Uygulama içerisinde bakiye arttırma, bakiye çekme, İngilizce kelime öğrenme ve rastgele hediye alma gibi özellikler bulunmaktadır.
